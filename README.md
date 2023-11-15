@@ -1,5 +1,5 @@
 # Data Science and Machine Learning DataSet
-All datasets required for experimenting Data Science &amp; Machine Learning.
+All datasets required for experimenting Data Science &amp; Machine Learning
 
 # Usage
 ```python
